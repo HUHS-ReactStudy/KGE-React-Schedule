@@ -1,0 +1,6 @@
+// 닫혀있는 파일에도 import 자동완성을 작동시키기 위한 파일 
+{
+    "compilerOptions": {
+        "target": "es2020"
+    }
+}
